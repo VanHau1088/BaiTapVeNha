@@ -2,7 +2,6 @@
     margin: 0px;
     padding: 0px;
     font-family: sans-serif;
-
 }
 
 body{
@@ -10,7 +9,6 @@ body{
 45deg, rgb(65, 88, 208) 0%, rgb(200, 80, 192) 50%, rgb(255, 204, 112) 100% );
     height: 100vh;
 
-    
 }
 
 #a, #b{
@@ -18,12 +16,13 @@ body{
     padding: 20px 20px;
     border-radius: 8px;
     border: 0px;
- 
 }
+
 #a{
     margin-left: 10px;
-    
 }
+
+
 #b{
     margin-left: 5px;
 }
@@ -41,15 +40,17 @@ body{
     background-color: rgb(54, 105, 199);
     color: white;
     margin: 10px;
+    font-weight: 30px;
 }
 
 #btn_sub{
     padding: 20px 30px;
     border: none;
     border-radius: 10px;
-    background-color: rgb(54, 105, 199);
+    background-color: rgb(55, 143, 20);
     color: white;
     margin: 10px;
+    font-weight: 30px;
 }
 
 
@@ -57,23 +58,37 @@ body{
     padding: 20px 30px;
     border: none;
     border-radius: 10px;
-    background-color: rgb(54, 105, 199);
+    background-color: rgb(211, 112, 32);
     color: white;
     margin: 10px;
+    font-weight: 30px;
 }
 
 #btn_div{
     padding: 20px 30px;
     border: none;
     border-radius: 10px;
-    background-color: rgb(54, 105, 199);
+    background-color: rgb(151, 3, 52);
     color: white;
     margin: 10px;
+     font-weight: 30px;
 }
 
 #cal{
     margin-top: 15px;
-    margin-left: 15px;
-    
+    margin-left: 45px;
 }
 
+#gid{
+    justify-content: center;
+    align-items: center;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+#kq{
+    background: black;
+    padding: 10px 20px;
+    width: 30px;
+    height: 30px;
+}
